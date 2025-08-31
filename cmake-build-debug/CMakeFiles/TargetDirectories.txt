@@ -1,0 +1,3 @@
+C:/Users/Lenovo/CLionProjects/dsa class week6/cmake-build-debug/CMakeFiles/dsa_class_week6.dir
+C:/Users/Lenovo/CLionProjects/dsa class week6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/CLionProjects/dsa class week6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
